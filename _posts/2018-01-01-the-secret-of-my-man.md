@@ -15,9 +15,9 @@ image:
  homepage: "you-can-delete-me-homepage.png"
   caption: "Caption?"
 ---
-Judul Drama: {% page.title %}
 
-## Sinopsis {% page.subheadline %}
+
+## Sinopsis Episode The Lost Daughter
 
 It has been 14 years since Yuh Rim has gone missing. Ji Sook still blames Hae Rim for the incident, and Hae Rim is upset because of Ji Sook. Ji Sook leaves after a fight with Hae Rim, and she starts to put up posters to find Yeo Rim. However, Seo Ra’s scooter almost hits her, and Suh Ra gets knocked off while attempting to not crash into Ji Sook.ea
 
