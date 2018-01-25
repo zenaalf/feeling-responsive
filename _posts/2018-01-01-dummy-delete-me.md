@@ -1,6 +1,5 @@
 ---
-layout: videohttps://www.viu.com/ott/sg/en-us/vod/61006/The%20Secret%20of%20My%20Man
-#
+layout: video
 # Content
 #
 subheadline: "The lost daughter - Episode 01"
@@ -20,7 +19,7 @@ image:
   thumb: "you-can-delete-me-thumb.png"
   homepage: "you-can-delete-me-homepage.png"
   caption: "Caption?"
-  url: "http://phlow.de/"
+  url: "http://phlow.ga/"
 ---
 
 It has been 14 years since Yuh Rim has gone missing. Ji Sook still blames Hae Rim for the incident, and Hae Rim is upset because of Ji Sook. Ji Sook leaves after a fight with Hae Rim, and she starts to put up posters to find Yeo Rim. However, Seo Ra’s scooter almost hits her, and Suh Ra gets knocked off while attempting to not crash into Ji Sook.ea
