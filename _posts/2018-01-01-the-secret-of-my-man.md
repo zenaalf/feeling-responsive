@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: post
 subheadline: "Episode The Lost Daughter "
 title: "The Secret of My Man Episode 01"
 teaser: "An imposter impersonates someone else and gives up on even his most valuable things. Is the riches and comfort he gained worth the conscious he gave up on? Did he really become another man and rid himself of his own past? People who give up every precious possession to fulfill their own greed. People who do so to truly become someone else. All they have left is only an endless, ugly pit of greed."
