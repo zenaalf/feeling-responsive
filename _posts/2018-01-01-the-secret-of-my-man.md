@@ -9,11 +9,6 @@ tags:
  - drakor 2018
  - komedi romantis
  - kbs drama
-image:
- header: ""
- thumb: "you-can-delete-me-thumb.png"
- homepage: "you-can-delete-me-homepage.png"
- caption: "Caption
 ---
 
 
