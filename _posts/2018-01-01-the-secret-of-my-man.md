@@ -2,7 +2,7 @@
 layout: page
 subheadline: "The Lost Daughter"
 title: "The Secret of My Man Episode 01"
-teaser: "An imposter impersonates someone else and gives up on even his most valuable things. Is the riches and comfort he gained worth the conscious he gave up on? Did he really become another man and rid himself of his own past? People who give up every precious possession to fulfill their own greed. People who do so to truly become someone else. All they have left is only an endless, ugly pit of greed."
+teaser: "The Secret of My Man Episode 01: The Lost Daughter."
 categories:
  - drama
 tags:
@@ -11,7 +11,7 @@ tags:
  - kbs drama
 header: no
 ---
-Drama tell story: An imposter impersonates someone else and gives up on even his most valuable things. Is the riches and comfort he gained worth the conscious he gave up on? Did he really become another man and rid himself of his own past? People who give up every precious possession to fulfill their own greed. People who do so to truly become someone else. All they have left is only an endless, ugly pit of greed.
+Tell story: An imposter impersonates someone else and gives up on even his most valuable things. Is the riches and comfort he gained worth the conscious he gave up on? Did he really become another man and rid himself of his own past? People who give up every precious possession to fulfill their own greed. People who do so to truly become someone else. All they have left is only an endless, ugly pit of greed.
 
 The Secret of My Man Episode 01: The Lost Daughter
 
