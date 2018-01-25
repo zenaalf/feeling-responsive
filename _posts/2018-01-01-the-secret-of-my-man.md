@@ -9,6 +9,7 @@ tags:
  - drakor 2018
  - komedi romantis
  - kbs drama
+header: no
 ---
 
 
