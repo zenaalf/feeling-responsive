@@ -15,15 +15,15 @@ tags:
 
 ### 1. Longing Heart
 
-![Longing Heart](1)
+![Longing Heart][1]
 
-Drama korea tebaru yang tayang Januari 2018 ini dibintangi oleh Lee Jung Shin bersama dengan Lee Yeol Eum dan Seo Ji Hoon.  Menurut berita yang beredar, Longing Heart akan bergenre fantasy romance dan hanya memiliki 8 episode. Kisahnya sendiri akan berfokus pada seorang guru yang kembali ke masa lalu untuk mendapatkan hati seorang wanita yang tidak bisa dia lupakan selama 10 tahun terakhir. [Drama Korea terbaru 2018](11) yang sepertinya akan bertema time travel ini tentunya cocok untuk kamu tonton.
+Drama korea tebaru yang tayang Januari 2018 ini dibintangi oleh Lee Jung Shin bersama dengan Lee Yeol Eum dan Seo Ji Hoon.  Menurut berita yang beredar, Longing Heart akan bergenre fantasy romance dan hanya memiliki 8 episode. Kisahnya sendiri akan berfokus pada seorang guru yang kembali ke masa lalu untuk mendapatkan hati seorang wanita yang tidak bisa dia lupakan selama 10 tahun terakhir. [Drama Korea terbaru 2018][11] yang sepertinya akan bertema time travel ini tentunya cocok untuk kamu tonton.
 
 Longing Heart sendiri sudah menayangkan episode perdananya pada tanggal 8 Januari 2018 di saluran TV OCN.
 
 ### 2. Misty
 
-![Misty](2)
+![Misty][2]
 
 Drakor terbaru 2018 yang tidak boleh kamu lewatkan, yaitu Misty yang dibintangi oleh Kim Nam Joo dan Ji Jin Hee. Drama Korea ini akan mengisahkan tentang Go Hye Ran, seorang wanita yang berprofesi sebagai pembawa acara berita terkenal. Nasibnya tidak begitu baik karena kemudian ia dituduh sebagai seorang pembunuh.
 
@@ -31,43 +31,43 @@ Suaminya yang mengetahui bahwa Go Hye Ran tidak bersalah, berusaha mati-matian m
 
 ### 3. Radio Romance
 
-![Radio Romance](3)
+![Radio Romance][3]
 
 Radio Romance mengisahkan tentang Song Geu Kim, seorang wanita yang bekerja di stasiun radio. Sebenarnya Geu Kim merupakan seorang gadis yang tak berbakat di bidangnya, namun berkat bantuan dari Ji Soo Ho, dia dapat bekerja sesuai dengan impiannya. Radio Romance sendiri akan memiliki 16 episode dan dibintangi oleh Yoon Doo Joon.
 
 ### 4. Return
 
-![Return](4)
+![Return][4]
 
 Ada juga drama korea genre mystery thriller yang siap tayang di bulan Januari 2018, yaitu Return. Drama Korea terbaru Januari 2018 yang dibintangi Ko Hyun Jung, Lee Jin Wook dan Shin Sung Rok ini akan berkisah tentang seorang pengacara dan detektif yang berkerja sama untuk memecahkan sebuah kasus. Kasus tersebut melibatkan seorang tersangka yang datang dari kelas elit yang memiliki alibi yang kuat dan susah untuk disentuh. Perjuangan mereka dalam mengungkap kejahatan yang sebenarnya menjadi sajian utama dalam drakor satu ini.
 
 ### 5. Mother
 
-![Mother](5)
+![Mother][5]
 
 Mother adalah remake dari drama korea berjudul sama yang sebelumnya tayang di NTV pada tahun 2010. Salah satu calon drama korea terbaik 2018 ini mengisahkan tentang seorang guru (diperankan Lee Bo Young) yang selalu melihat muridnya mengalami kekerasan dari orang tuanya. Tidak mau tinggal diam, guru cantik itu kemudian mengambil hak asuh dari muridnya tersebut. Mother sendiri mulai tayang pada 17 Januari 2018.
 
 ### 6. Cross
 
-![Cross](6)
+![Cross][6]
 
 Drama Korea Bulan Januari 2018 berikutnya adalah Cross yang akan dibintangi oleh Jeon So Min, Ko Gyung Pyo dan Cho Jae Hyun. Cross sendiri akan bercerita mengenai seorang pria yang bertekat menjadi seorang dokter untuk membalas dendam atas kematian ayahnya yang dibunuh secara berutal belasan tahun yang lalu. Belum banyak informasi yang beredar mengenai salah satu drakor terbaru ini, yang pasti Cross akan disutradarai oleh Shin Yong Whi dan tayang di TvN.
 
 ### 7. Grand Prince
 
-![Grand Prince](7)
+![Grand Prince][7]
 
 Grand Prince adalah drama korea bergenre romance dan historis. Drama korea terbaru yang dibintangi oleh Joon Sang Wook, Jin Se yun dan Yoon Si Yoon ini akan menceritakan di mana seorang wanita terjebak dalam percintaan dengan dua pangeran tampan. Grand Prince sendiri baru akan tayang pada pertengahan Januari 2018 mendatang
 
 ### 8. Short
 
-![Short](8)
+![Short][8]
 
 Short akan menjadi drama korea debut bagi Kim Do Yeon, idol Korea yang merupakan member Weki Meki. Drama ini akan mengisahkan tentang Yoo Ji Na, seorang wanita yang berprofesi sebagai seorang atlet skater, namun karena Ji Na mengalami cidera, membuatnya sulit untuk melanjutkan karirnya tersebut.
 
 ### 9. Are You Human To?
 
-![Are You Human To?](9)
+![Are You Human To?][9]
 
 Membaca judul drakor satu ini, mungkin akan mengingatkanmu pada drama korea I’m Not Robot. Bukan hanya judulnya, cerita drakor terbaru 2018 ini sedikit banyak juga mirip dengan drama korea tersebut.
 
@@ -75,7 +75,7 @@ Drama Are You Human To? Akan berkisah tentang seorang pria yang mengalami kece
 
 ### 10. Love Game
 
-![Love Game](10)
+![Love Game][10]
 
 Satu lagi drama Korea terbaru Januari 2018 yang bisa kamu tonton, yaitu Love Game. Berkisah tentang seorang wanita bernama Eun Tae Hee yang depresi dalam percintaan bertemu dengan seorang pria bernama Kwon Shi Hyun yang mengubah pandangannya. Awalnya Shi Hyun hanya ingin menggoda Tae Hee saja namun siapa sangka ternyata muncul benih-benih cinta diantara keduanya.
 
