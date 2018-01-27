@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.jpg
 widget1:
-  title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  title: "Drama Korea"
+  url: 'https://www.drakor.ga/drama/'
+  image: 'https://dummyimage.com/302x183/334d5c/efc94c.png&text=Drama'
   text: ''
 widget2:
-  title: "Widget 2"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  title: "Film Korea"
+  url: 'https://www.drakor.ga/film/'
+  image: 'https://dummyimage.com/302x183/334d5c/efc94c.png&text=Film'
   text: ''
 widget3:
-  title: "Widget 3"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  title: "Teaser"
+  url: 'https://www.drakor.ga/teaser/'
+  image: 'https://dummyimage.com/302x183/334d5c/efc94c.png&text=Teaser'
   text: ''
 #
 # Use the call for action to show a button on the frontpage
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://www.knoacc.org/
   text: Inform me about new updates and features ›
   style: alert
 permalink: /index.html
