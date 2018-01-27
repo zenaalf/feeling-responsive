@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "Drama Yang Paling Bagus Dan Wajib Ditonton"
+subheadline: "Drama Paling Bagus Wajib Ditonton"
 title: "10 Drama Korea Tayang Januari 2018"
 teaser: "Yuk Intip 10 Drama Korea Terbaru Yang Tayang Bulan Januari 2018 Berikut Ini!"
 #
@@ -86,14 +86,14 @@ Satu lagi drama Korea terbaru Januari 2018 yang bisa kamu tonton, yaitu Love Ga
 
 Drama Korea komedi romantis ini akan diperankan oleh Woo Do Hwan dan idol-aktris Joy member dari Red Velvet.
 
-[1](https://3.bp.blogspot.com/-XxdP6lCG7CY/WlJf9xzSajI/AAAAAAAAHk4/05oaBBoonpE3_NJDWsuM9MTCtzJMYUBHACLcBGAs/s1600/LongingHeart.jpg)
-[2](https://4.bp.blogspot.com/-iDDOJ4AIlks/WhuJGtsg5pI/AAAAAAAAFtg/17ya5nlUWAELiup0hdvNm4zEFAWJooZzwCK4BGAYYCw/s1600/Misty.jpg)
-[3](https://i2.wp.com/www.tentangsinopsis.com/wp-content/uploads/2017/11/radio-romance.jpg)
-[4](https://i0.wp.com/theinformantspy.com/wp-content/uploads/2018/01/Return.jpg)
-[5](https://2.bp.blogspot.com/-eh_p-3oUCY8/WlJgU-ob9rI/AAAAAAAAHk8/l93iepIz6PsONlWYEeG1OFeam7OTJCgowCLcBGAs/s1600/mother.jpg)
-[6](https://i0.wp.com/www.setangkai.com/wp-content/uploads/2018/01/Cross.jpg)
-[7](https://i0.wp.com/asianwiki.com/images/f/fb/Grand_Prince-SM222.jpg)
-[8](https://0.soompi.io/wp-content/uploads/2017/11/08000201/Kim-Doyeon-Kang-Tae-Oh.jpg)
-[9](https://3.bp.blogspot.com/-cPIZ-sEY_Gg/WlJgrLTGfgI/AAAAAAAAHlE/3tm9_7NB-iE0Wotyaz0RKaY28DbFt5enACLcBGAs/s1600/areyouhumantoo.jpg)
-[10](https://i0.wp.com/asianwiki.com/images/a/a3/Love_Game.jpg)
-[11](http://www.drakor.ga)
+[1]: https://3.bp.blogspot.com/-XxdP6lCG7CY/WlJf9xzSajI/AAAAAAAAHk4/05oaBBoonpE3_NJDWsuM9MTCtzJMYUBHACLcBGAs/s1600/LongingHeart.jpg
+[2]: https://4.bp.blogspot.com/-iDDOJ4AIlks/WhuJGtsg5pI/AAAAAAAAFtg/17ya5nlUWAELiup0hdvNm4zEFAWJooZzwCK4BGAYYCw/s1600/Misty.jpg
+[3]: https://i2.wp.com/www.tentangsinopsis.com/wp-content/uploads/2017/11/radio-romance.jpg
+[4]: https://i0.wp.com/theinformantspy.com/wp-content/uploads/2018/01/Return.jpg
+[5]: https://2.bp.blogspot.com/-eh_p-3oUCY8/WlJgU-ob9rI/AAAAAAAAHk8/l93iepIz6PsONlWYEeG1OFeam7OTJCgowCLcBGAs/s1600/mother.jpg
+[6](https://i0.wp.com/www.setangkai.com/wp-content/uploads/2018/01/Cross.jpg
+[7]: https://i0.wp.com/asianwiki.com/images/f/fb/Grand_Prince-SM222.jpg
+[8]: https://0.soompi.io/wp-content/uploads/2017/11/08000201/Kim-Doyeon-Kang-Tae-Oh.jpg
+[9]: https://3.bp.blogspot.com/-cPIZ-sEY_Gg/WlJgrLTGfgI/AAAAAAAAHlE/3tm9_7NB-iE0Wotyaz0RKaY28DbFt5enACLcBGAs/s1600/areyouhumantoo.jpg
+[10]: https://i0.wp.com/asianwiki.com/images/a/a3/Love_Game.jpg
+[11]: http://www.drakor.ga
