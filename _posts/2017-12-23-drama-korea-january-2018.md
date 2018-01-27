@@ -87,7 +87,7 @@ Drama Korea komedi romantis ini akan diperankan oleh Woo Do Hwan dan idol-aktris
  [3]: https://i2.wp.com/www.tentangsinopsis.com/wp-content/uploads/2017/11/radio-romance.jpg
  [4]: https://i0.wp.com/theinformantspy.com/wp-content/uploads/2018/01/Return.jpg
  [5]: https://2.bp.blogspot.com/-eh_p-3oUCY8/WlJgU-ob9rI/AAAAAAAAHk8/l93iepIz6PsONlWYEeG1OFeam7OTJCgowCLcBGAs/s1600/mother.jpg
- [6](https://i0.wp.com/www.setangkai.com/wp-content/uploads/2018/01/Cross.jpg
+ [6]: https://i0.wp.com/www.setangkai.com/wp-content/uploads/2018/01/Cross.jpg
  [7]: https://i0.wp.com/asianwiki.com/images/f/fb/Grand_Prince-SM222.jpg
  [8]: https://0.soompi.io/wp-content/uploads/2017/11/08000201/Kim-Doyeon-Kang-Tae-Oh.jpg
  [9]: https://3.bp.blogspot.com/-cPIZ-sEY_Gg/WlJgrLTGfgI/AAAAAAAAHlE/3tm9_7NB-iE0Wotyaz0RKaY28DbFt5enACLcBGAs/s1600/areyouhumantoo.jpg
