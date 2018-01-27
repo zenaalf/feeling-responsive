@@ -12,7 +12,6 @@ tags:
  - drama terbaru januari
  - drama terbaik januari
 ---
-{% page.subheadline %} {% page.title %} {% page.teaser %}
 
 ### 1. Longing Heart
 
