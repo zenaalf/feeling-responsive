@@ -3,10 +3,6 @@ layout: page
 subheadline: "Drama Paling Bagus Wajib Ditonton"
 title: "10 Drama Korea Tayang Januari 2018"
 teaser: "Yuk Intip 10 Drama Korea Terbaru Yang Tayang Bulan Januari 2018 Berikut Ini!"
-#
-# image:
-# homepage:
-# thumb:
 categories:
  - jadwal tayang
 tags:
