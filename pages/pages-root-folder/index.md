@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: you-can-delete-me-header.jpg
+  image_fullwidth: you-can-delete-me-banner.jpg
 widget1:
   title: "Drama Korea"
   url: 'https://www.drakor.ga/drama/'
