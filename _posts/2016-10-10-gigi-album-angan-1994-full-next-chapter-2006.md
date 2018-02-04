@@ -17,15 +17,16 @@ image:
   caption: "GIGI"
 ---
 
-Dua Album favorit dari band GIGI. Adalah Album Angan (Rilis '94) dan Next Chapter (rilis '06), Full Album yang bisa kamu dapatkan dari bawah:
+Dua Album favorit dari band GIGI. Adalah Album Angan (Rilis '94) dan Next Chapter (rilis '06), Full Album yang bisa kamu dapatkan dari bawah yang di upload ballada.net
 
 1. Full Album Angan - [unduh][1]
 2. Full Album Next Chapter - [unduh][2]
 
-password rar: www.ballada.net
+password rar: www.ballada.net 
 
-uploader: www.ballada.net
+jika kamu memakai ponsel android, silahkan gunakan RAR [for Android][3] yang bisa kamu unduh dari playstore 
 
 
   [1]: http://bit.ly/2E0hOns
   [2]: http://bit.ly/2E070Wh
+  [3]: https://www.knoacc.org
